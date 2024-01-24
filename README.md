@@ -1,4 +1,4 @@
-# Ecommerce-Mobile
+# Ecommerce-Mobile-Screenshots
 ![Screenshot 2024-01-24 172024](https://github.com/elanpraveen/Ecommerce-Mobile/assets/113963426/da08a5a6-ad20-47e7-a31f-d7f9901bfb33)
 ![Screenshot 2024-01-24 172127](https://github.com/elanpraveen/Ecommerce-Mobile/assets/113963426/635499ae-ff87-427c-9648-d6d429bfae87)
 ![Screenshot 2024-01-24 172202](https://github.com/elanpraveen/Ecommerce-Mobile/assets/113963426/5511734d-1745-4b1e-9fbf-39f7c21e5f5c)
